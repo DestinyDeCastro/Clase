@@ -1,0 +1,30 @@
+body {
+    background-image: url('images/lobito.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Arial', sans-serif; /* Cambia la fuente para todo el documento */
+    color: #3282b8;
+    margin: 100;
+    padding: 500;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.853); /* Agrega sombreado al texto del documento */
+    font-size: 160%;
+}
+nav {
+    background-color: #5c1bc549; /* Color de fondo de la barra de navegación */
+    padding: 10px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+footer {
+    background-color: #333; /* Color de fondo del footer */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
